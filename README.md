@@ -9,8 +9,7 @@ Insides:<br>
 Circuit diagram:
 <comig soon>
 
-Power off circuit based on Indrek Luuk's article: https://circuitjournal.com/arduino-auto-power-off
-but using single SI4542DY IC containing two (P and N channel) mosfets:
-https://www.onsemi.com/pdf/datasheet/si4542dy-d.pdf
+Power off circuit based on Indrek [Luuk's article](https://circuitjournal.com/arduino-auto-power-off), but using single [SI4542DY IC](https://www.onsemi.com/pdf/datasheet/si4542dy-d.pdf) containing two (P and N channel) mosfets:
+
 
 
