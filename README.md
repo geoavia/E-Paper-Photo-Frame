@@ -6,3 +6,7 @@ Insides:<br>
 ![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/photo_frame_inside.jpg)
 
 
+Circuit diagram:
+<comig soon>
+
+Power off circuit based on Indrek Luuk's article: https://circuitjournal.com/arduino-auto-power-off
