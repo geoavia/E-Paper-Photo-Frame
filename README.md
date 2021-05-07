@@ -1,5 +1,4 @@
-# E-Paper-Photo-Frame
-Photo frame using 7 color e-paper display
+# 7 color e-paper photo frame
 
 Video of final product: https://youtu.be/H_CAdMDsyxA
 
