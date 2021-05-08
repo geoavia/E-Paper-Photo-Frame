@@ -40,7 +40,9 @@ CS | D4
 Power off circuit based on [Indrek Luuk's article](https://circuitjournal.com/arduino-auto-power-off), but using single [SI4542DY IC](https://www.onsemi.com/pdf/datasheet/si4542dy-d.pdf) containing two (P and N channel) mosfets.<br>
 ![Power off](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/circuit_pwr.jpg)<br><br>
 I have utilized the [TSSOP16](https://www.amazon.com/dp/B00O9W6RLQ) adapter board (although any similar board will do).<br>
-![ssop16](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16.jpg)<br>
+* [Adapter board and SI4542DY](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16_and_chip.jpg)
+* [Circuit sheme on adapter board](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16.jpg)
+* [Assembled power off circuit board](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16_assembled.jpg)
 
 ### Inside alignment
 ![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/photo_frame_inside.jpg)<br><br>
