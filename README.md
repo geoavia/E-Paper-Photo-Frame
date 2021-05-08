@@ -43,7 +43,9 @@ I have utilized the [TSSOP16](https://www.amazon.com/dp/B00O9W6RLQ) adapter boar
 ![ssop16](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16.jpg)<br>
 
 ### Inside alignment
-![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/photo_frame_inside.jpg)
+![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/photo_frame_inside.jpg)<br><br>
+
+Enclosure case 3d model (Fusion 360) and stl files for print [are also provided](https://github.com/geoavia/E-Paper-Photo-Frame/tree/main/enclosure)
 
 ### Preparing image files
 
@@ -51,6 +53,3 @@ I have utilized the [TSSOP16](https://www.amazon.com/dp/B00O9W6RLQ) adapter boar
 2. Save them according to [this manual](https://www.waveshare.com/wiki/E-Paper_Floyd-Steinberg) (use 7 color version)
 3. Convert each file with [converter](https://github.com/geoavia/E-Paper-Photo-Frame/tree/main/converter) utility (compile first)
 4. Save resulting BIM files to SD card, obviousely :)
-
-
-Enclosure case 3d model (Fusion 360) and stl files for print [are also provided](https://github.com/geoavia/E-Paper-Photo-Frame/tree/main/enclosure)
