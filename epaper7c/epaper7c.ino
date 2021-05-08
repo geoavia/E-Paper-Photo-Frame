@@ -32,11 +32,8 @@ void setup() {
   Serial.println("done.");
 
   char imgFileName[MAX_NAME];
-  int imgFileCount = 0;
   unsigned long logSize = 0;
-  int curIndex = 0;
 
-  //memset(imgFileNames, 0, MAX_FILES*MAX_NAME);
   memset(imgFileName, 0, MAX_NAME);
 
   File logFile = SD.open(LOG_NAME, FILE_WRITE);
@@ -131,6 +128,7 @@ void NextFileName(unsigned long logSize, char *fname) {
   int count = 0;
   File dir = SD.open("/");
   File file;
+  // first loop for counting files...
   while (file = dir.openNextFile()) {
     if (file.isDirectory() || file.size() != 134400) {
       file.close();
@@ -145,6 +143,7 @@ void NextFileName(unsigned long logSize, char *fname) {
   dir.rewindDirectory();
   logSize = logSize % count;
   count = 0;
+  // ... and second loop for finding next file. I know its's wierd but it works :) 
   while (file = dir.openNextFile()) {
     if (file.isDirectory() || file.size() != 134400) {
       file.close();
