@@ -51,7 +51,11 @@ Enclosure case 3d model (Fusion 360) and stl files for print [are also provided]
 
 [Complete Sketch folder](https://github.com/geoavia/E-Paper-Photo-Frame/tree/main/epaper7c)<br>
 
-Main sketch code:
+<details>
+<summary>
+Main sketch code here
+</summary>
+
 ```C++
 #include <SPI.h>
 #include <SD.h>
@@ -208,6 +212,8 @@ void NextFileName(unsigned long logSize, char *fname) {
   dir.close();  
 }
 ```
+</details>
+
 
 ### Preparing image files
 
