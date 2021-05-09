@@ -1,5 +1,7 @@
 # 7 color e-paper photo frame
 
+![eFrame](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/eframe2.jpg)
+
 Video of finished device: https://youtu.be/H_CAdMDsyxA
 
 ### Components
