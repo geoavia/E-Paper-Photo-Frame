@@ -1,19 +1,19 @@
-# 7 color e-paper photo frame
+# 7 color e-Paper Photo Frame
 
 ![eFrame](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/eframe2.jpg)
 
 Video of finished device: https://youtu.be/H_CAdMDsyxA
 
-### Components
+### Components used
 
 * [Arduino Nano compatible board](https://www.amazon.com/dp/B07G99NNXL)
 * [7 colour e-paper display panel](https://www.waveshare.com/product/displays/e-paper/epaper-1/5.65inch-e-paper-module-f.htm)
 * [Micro SD card board](https://www.amazon.com/gp/product/B07BJ2P6X6)
 * Resistors (100k x 2, 100 ohm, 1k)
-* Integral circuit SI4542DY (two mosfets package)
-* LED
-* Push button momentary switch
-* 12v Battery (A23)
+* Integral circuit SI4542DY or similar (two mosfets in package).
+* One LED, color of your preferance :)
+* Single push button momentary switch
+* 7v-12v Battery (LiPos can do, but I prefered A23)
 
 ### e-Paper display connection
 According to [waveshare wiki](https://www.waveshare.com/wiki/5.65inch_e-Paper_Module_(F)):<br>
