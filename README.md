@@ -47,7 +47,7 @@ I have utilized the [TSSOP16](https://www.amazon.com/dp/B00O9W6RLQ) adapter boar
 * [Assembled power off circuit board](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/ssop16_assembled.jpg)
 
 ### Inside alignment
-![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/photo_frame_inside.jpg)<br><br>
+![Inside](https://github.com/geoavia/E-Paper-Photo-Frame/blob/main/insides.jpg)<br><br>
 
 Enclosure case 3d model (Fusion 360) and stl files for print [are also provided](https://github.com/geoavia/E-Paper-Photo-Frame/tree/main/enclosure)
 
