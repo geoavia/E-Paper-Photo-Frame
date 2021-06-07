@@ -13,7 +13,7 @@ Video of finished device: https://youtu.be/H_CAdMDsyxA
 * Integral circuit SI4542DY or similar (two mosfets in package).
 * One LED, color of your preferance :)
 * Single push button momentary switch
-* 7v-12v Battery (LiPos can do, but I prefered A23)
+* Any 7v-12v battery pack
 
 ### e-Paper display connection
 According to [waveshare wiki](https://www.waveshare.com/wiki/5.65inch_e-Paper_Module_(F)):<br>
