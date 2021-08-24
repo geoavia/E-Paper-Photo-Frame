@@ -75,7 +75,7 @@ const int shutDownPin = 2;
 void setup() {
 
   pinMode(shutDownPin, OUTPUT);
-  digitalWrite(shutDownPin, HIGH);   // prevent power off timer
+  digitalWrite(shutDownPin, HIGH);   // power on
 
   // put your setup code here, to run once:
   Serial.begin(9600);
@@ -175,7 +175,7 @@ void setup() {
 
 void loop() {
   delay(5000);
-  digitalWrite(shutDownPin, LOW);   // power off circuit
+  digitalWrite(shutDownPin, LOW);   // power off
 }
 
 void NextFileName(unsigned long logSize, char *fname) {
