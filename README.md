@@ -174,9 +174,6 @@ void setup() {
 }
 
 void loop() {
-  //digitalWrite(shutDownPin, LOW);
-  //delay(1000);
-  //digitalWrite(shutDownPin, HIGH);
   delay(5000);
   digitalWrite(shutDownPin, LOW);   // power off circuit
 }
